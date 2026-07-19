@@ -121,7 +121,7 @@
             bindings = <
 &kp PG_UP  &trans          &kp UP_ARROW    &trans           &kp PAGE_DOWN                                   &trans  &trans        &kp LG(UP_ARROW)  &trans         &trans
 &kp HOME   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp END        &trans      &kp PSCRN            &trans  &kp LG(LEFT)  &kp LG(DOWN)      &kp LG(RIGHT)  &trans
-&trans     &trans          &trans          &trans           &trans         &trans      &kp LS(PRINTSCREEN)  &trans  &trans        &trans            &trans         &trans
+&trans     &trans          &trans          &trans           &trans         &trans      &kp LS(PRINTSCREEN)  &trans  &trans        &kp LESS_THAN     &kp GREATER_THAN  &kp QUESTION
 &trans     &trans          &trans          &trans           &trans         &trans      &kp DEL              &trans                                                 &trans
             >;
 

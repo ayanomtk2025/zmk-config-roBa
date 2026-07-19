@@ -164,9 +164,9 @@ layers:
   - Sft+PRINTSCREEN
   - {type: trans}
   - {type: trans}
-  - {type: trans}
-  - {type: trans}
-  - {type: trans}
+  - <
+  - '>'
+  - '?'
   - {type: trans}
   - {type: trans}
   - {type: trans}

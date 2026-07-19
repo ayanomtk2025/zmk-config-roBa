@@ -40,8 +40,8 @@ layers:
   - LEFT GUI
   - {t: '&to_layer_0 INT_HENKAN', h: FUNCTION}
   - {t: SPACE, h: NUM}
+  - BACKSPACE
   - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
-  - {t: BACKSPACE, h: MOUSE}
   - {t: CLCK, h: '6'}
   - {t: ESC, h: SCROLL}
   FUNCTION:
@@ -172,8 +172,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
-  - DEL
+  - {t: ▽, type: trans}
+  - {t: DEL, type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   MOUSE:
@@ -319,3 +319,5 @@ combos:
   k: '"'
 - p: [24, 25]
   k: '='
+- p: [19, 20]
+  k: ''''

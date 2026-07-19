@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - P
-  - {t: A, h: LCTRL}
+  - {t: A, h: LEFT SHIFT}
   - S
   - D
   - F
@@ -23,7 +23,7 @@ layers:
   - {t: K, h: SCROLL}
   - L
   - ENTER
-  - {t: Z, h: LEFT SHIFT}
+  - Z
   - X
   - C
   - V
